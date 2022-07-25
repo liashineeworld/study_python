@@ -16,6 +16,10 @@ print('hello, world!')
 
 
 
+#abs() 絕對值(顯示為正整數)
+#round() 四捨五入
+#ceil() 向上取整數
+#floor() 向下取整數
 
 -變數(運算元)
 varible.py
