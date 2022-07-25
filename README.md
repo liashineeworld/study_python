@@ -23,7 +23,7 @@ varible.py
 #type()函示可用以檢視資料型態class int,class float,class str
 
 ---int(整數)
-int()
+int()可將浮點數資料轉乘整數資料(無條件捨去後方浮點數，只保留整數)
 
 ---float(浮點數)
 ---string(字串)
